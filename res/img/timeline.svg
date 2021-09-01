@@ -8,6 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="2457.6001"
+   inkscape:export-xdpi="2457.6001"
+   inkscape:export-filename="timeline.png"
    sodipodi:docname="timeline.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -582,7 +585,7 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="166.83367"
+     inkscape:cy="21.876779"
      inkscape:cx="40.731998"
      inkscape:zoom="11.313709"
      inkscape:pageshadow="2"
@@ -608,6 +611,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
      style="display:inline"
      inkscape:groupmode="layer"
      id="layer2"
@@ -620,8 +624,17 @@
        x="0"
        y="0"
        ry="1.3229166" />
+    <rect
+       ry="1.3229162"
+       y="0"
+       x="0"
+       height="48.947918"
+       width="21.166666"
+       id="rect2040"
+       style="opacity:0.998;fill:#0d1117;fill-opacity:1;stroke-width:0.53684;stroke-linecap:round;stroke-linejoin:round" />
   </g>
   <g
+     style="display:inline"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -629,10 +642,10 @@
        id="text837"
        y="5.2341642"
        x="3.4549181"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          y="5.2341642"
          x="3.4549181"
          id="tspan835">2021</tspan></text>
@@ -655,30 +668,30 @@
        id="text2229"
        y="2.5153937"
        x="7.0966539"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan2231"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="2.5153937"
          x="7.0966539">Ingénieur assistant de recherche.</tspan><tspan
          id="tspan2439"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="3.0445607"
          x="7.0966539" /><tspan
          id="tspan2441"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="3.5737276"
          x="7.0966539">• Création d'une architecture Web et d'une application</tspan><tspan
          id="tspan2445"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="4.1028948"
          x="7.0966539">mobile en Flutter pour un sondage interactif,</tspan><tspan
          id="tspan2443"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="4.632062"
          x="7.0966539">• Traitement de nuages de points 3D.</tspan></text>
@@ -688,7 +701,7 @@
        style="fill:none;fill-opacity:1;stroke:#bc8dff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2509);marker-end:url(#DotS)" />
     <text
        xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        x="5.2602696"
        y="6.2124166"
        id="text3011"><tspan
@@ -696,28 +709,28 @@
          x="5.2602696"
          y="6.2124166"
          sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Novembre 2020</tspan></text>
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">Novembre 2020</tspan></text>
     <text
        id="text3015"
        y="1.4499168"
        x="5.2602692"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
          sodipodi:role="line"
          y="1.4499168"
          x="5.2602692"
          id="tspan3013">présent</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="3.477915"
        y="17.190861"
        id="text3019"><tspan
          id="tspan3017"
          x="3.477915"
          y="17.190861"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          sodipodi:role="line">2020</tspan></text>
     <path
        sodipodi:nodetypes="cc"
@@ -738,16 +751,16 @@
        id="text3255"
        y="7.9336195"
        x="6.874228"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
          sodipodi:role="line"
          y="7.9336195"
          x="6.874228"
          id="tspan3253">Juillet 2020</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        x="5.2803779"
        y="36.505444"
        id="text3259"><tspan
@@ -755,7 +768,7 @@
          x="5.2803779"
          y="36.505444"
          sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Septembre 2017</tspan></text>
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">Septembre 2017</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ca2c3c;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3975);marker-end:url(#marker3985)"
        d="m 6.35,14.2875 v -6.35"
@@ -765,9 +778,9 @@
        id="text4609"
        y="14.410973"
        x="6.8477693"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
          sodipodi:role="line"
          y="14.410973"
          x="6.8477693"
@@ -784,122 +797,122 @@
          id="tspan4611">Solutec Lyon</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="9.2133207"
        y="10.465328"
        id="text4617"><tspan
          x="9.2133207"
          y="10.465328"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan4615">Stage en Recherche &amp; Développement.</tspan><tspan
          id="tspan4623"
          x="9.2133207"
          y="10.994495"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;">La mission était de créer un chatbot pour</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">La mission était de créer un chatbot pour</tspan><tspan
          x="9.2133207"
          y="11.523663"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1100">répondre aux éventuelles questions</tspan><tspan
          x="9.2133207"
          y="12.052829"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1102">administratives que les employés peuvent avoir.</tspan><tspan
          x="9.2133207"
          y="12.581996"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1090" /><tspan
          x="9.2133207"
          y="13.111163"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1082">• Traitement du langage naturel avec spaCy,</tspan><tspan
          x="9.2133207"
          y="13.64033"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1084">• Développement de réseaux de neurones</tspan><tspan
          x="9.2133207"
          y="14.169497"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1104">denses, convolutifs et récursifs (TensorFlow),</tspan><tspan
          x="9.2133207"
          y="14.698664"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1086">• Mise en place d'une base de données</tspan><tspan
          x="9.2133207"
          y="15.227831"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1106">MongoDB sur Docker,</tspan><tspan
          x="9.2133207"
          y="15.756998"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1088">• Développement d'une Pipeline CI/CD sur</tspan><tspan
          x="9.2133207"
          y="16.286165"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          id="tspan1108">GitLab.</tspan></text>
     <text
        id="text1048"
        y="25.027113"
        x="3.4698782"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          y="25.027113"
          x="3.4698782"
          id="tspan1046">2019</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="3.4753897"
        y="32.526112"
        id="text1052"><tspan
          id="tspan1050"
          x="3.4753897"
          y="32.526112"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          sodipodi:role="line">2018</tspan></text>
     <text
        id="text1056"
        y="39.050385"
        x="3.446749"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          y="39.050385"
          x="3.446749"
          id="tspan1054">2017</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="3.4649279"
        y="43.021954"
        id="text1060"><tspan
          id="tspan1058"
          x="3.4649279"
          y="43.021954"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          sodipodi:role="line">2015</tspan></text>
     <text
        id="text1064"
        y="46.98259"
        x="3.446749"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          y="46.98259"
          x="3.446749"
          id="tspan1062">1997</tspan></text>
@@ -918,75 +931,75 @@
        id="text1081"
        y="23.991182"
        x="9.1976223"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan1063"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="23.991182"
          x="9.1976223">McMaster est une université située à Hamilton,</tspan><tspan
          id="tspan1103"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="24.52035"
          x="9.1976223">au Canada. Stage de recherche en Optimisation</tspan><tspan
          id="tspan1109"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="25.049517"
          x="9.1976223">Mathématique. La mission était de manipuler</tspan><tspan
          id="tspan1111"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="25.578684"
          x="9.1976223">une formulation d'un modèle mathématique</tspan><tspan
          id="tspan1113"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="26.107851"
          x="9.1976223">sur une raffinerie de façon à gérer les arrêts</tspan><tspan
          id="tspan1115"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="26.637018"
          x="9.1976223">non-anticipés des machines, avec différentes</tspan><tspan
          id="tspan1117"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="27.166183"
          x="9.1976223">durées d'arrêt.</tspan><tspan
          id="tspan1065"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="27.695351"
          x="9.1976223" /><tspan
          id="tspan1079"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="28.224518"
          x="9.1976223">• Formulation d'un modèle mathématique</tspan><tspan
          id="tspan1150"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="28.753685"
          x="9.1976223">multi-périodes,</tspan><tspan
          id="tspan1146"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="29.282852"
          x="9.1976223">• Comprendre le fonctionnement d'un</tspan><tspan
          id="tspan1152"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="29.812019"
          x="9.1976223">optimiseur mathématique,</tspan><tspan
          id="tspan1148"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="30.341187"
          x="9.1976223">• Participation à l'écriture d'un article</tspan><tspan
          id="tspan1154"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="30.870354"
          x="9.1976223">scientifique sur le projet.</tspan></text>
@@ -1017,15 +1030,15 @@
        id="text1826"
        y="20.372917"
        x="9.260417"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan1824"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="20.372917"
          x="9.260417">Université Lyon 1, double-diplôme avec</tspan><tspan
          id="tspan1905"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          y="20.902084"
          x="9.260417">Polytech Lyon</tspan></text>
@@ -1036,7 +1049,7 @@
        style="fill:none;fill-opacity:1;stroke:#e9518f;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2233);marker-end:url(#marker2243)" />
     <text
        xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        x="6.0741277"
        y="20.993277"
        id="text2417"><tspan
@@ -1044,21 +1057,21 @@
          x="6.0741277"
          y="20.993277"
          sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Septembre 2019</tspan></text>
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">Septembre 2019</tspan></text>
     <text
        id="text2433"
        y="31.047445"
        x="6.0741277"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
          sodipodi:role="line"
          y="31.047445"
          x="6.0741277"
          id="tspan2431">Septembre 2018</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        x="6.0804777"
        y="23.384933"
        id="text2437"><tspan
@@ -1066,15 +1079,15 @@
          x="6.0804777"
          y="23.384933"
          sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Janvier 2019</tspan></text>
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">Janvier 2019</tspan></text>
     <text
        transform="rotate(-90)"
        xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient2457);fill-opacity:1.0;stroke-width:0.264583"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient2457);fill-opacity:1;stroke-width:0.264583"
        x="-6.988627"
        y="3.8455231"
        id="text2449"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient2457);fill-opacity:1.0"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient2457);fill-opacity:1"
          id="tspan2447"
          x="-6.988627"
          y="3.8455231"
@@ -1136,16 +1149,16 @@
        id="text4819"
        y="37.306252"
        x="5.2916665"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
          sodipodi:role="line"
          y="37.306252"
          x="5.2916665"
          id="tspan4817">Juin 2017</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
        x="5.2803779"
        y="40.572441"
        id="text4823"><tspan
@@ -1153,7 +1166,7 @@
          x="5.2803779"
          y="40.572441"
          sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Septembre 2015</tspan></text>
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">Septembre 2015</tspan></text>
     <circle
        r="0.26458332"
        cy="46.831249"
@@ -1164,9 +1177,9 @@
        id="text5279"
        y="47.011471"
        x="4.7338195"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.529167px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.529167px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          sodipodi:role="line"
          y="47.011471"
          x="4.7338195"
@@ -1181,9 +1194,9 @@
        id="text5289"
        y="41.943604"
        x="4.715404"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:0.529167px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          sodipodi:role="line"
          y="41.943604"
          x="4.715404"

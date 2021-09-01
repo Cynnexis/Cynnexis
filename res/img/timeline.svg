@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="timeline.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 21.166666 48.947917"
+   height="185"
+   width="80">
+  <title
+     id="title839">Cynnexis Timeline</title>
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1488"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1240"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#e106fc;stroke-width:1pt;stroke-opacity:1;fill:#e106fc;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6287"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#df0cfc;stroke-width:1pt;stroke-opacity:1;fill:#df0cfc;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6285" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5652" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5634" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5209">
+      <stop
+         style="stop-color:#4f06fc;stop-opacity:1;"
+         offset="0"
+         id="stop5203" />
+      <stop
+         id="stop5205"
+         offset="0.97267759"
+         style="stop-color:#de06fc;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e106fc;stop-opacity:0"
+         offset="1"
+         id="stop5207" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2901"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2899" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2891"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2889" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2581"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2579"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2571"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2569"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2243"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2241" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2233"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2231" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1206"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#ff9400;fill-opacity:1;fill-rule:evenodd;stroke:#ff9400;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1204" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1196"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#ff9400;fill-opacity:1;fill-rule:evenodd;stroke:#ff9400;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1194" />
+    </marker>
+    <rect
+       id="rect1085"
+       height="1.3229167"
+       width="8.9958334"
+       y="20.637501"
+       x="20.902082" />
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3985"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3983"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ca2c3c;fill-opacity:1;fill-rule:evenodd;stroke:#ca2c3c;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3975"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3973"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ca2c3c;fill-opacity:1;fill-rule:evenodd;stroke:#ca2c3c;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3047"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3045"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3037"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3035"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2509"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#bc8dff;fill-opacity:1;fill-rule:evenodd;stroke:#bc8dff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2507" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#bc8dff;fill-opacity:1;fill-rule:evenodd;stroke:#bc8dff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path914" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="SquareS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#773bf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path923" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#773bf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path908" />
+    </marker>
+    <linearGradient
+       id="linearGradient1781"
+       inkscape:collect="always">
+      <stop
+         id="stop1777"
+         offset="0"
+         style="stop-color:#4f06fc;stop-opacity:1;" />
+      <stop
+         style="stop-color:#de06fc;stop-opacity:1;"
+         offset="0.9710983"
+         id="stop3297" />
+      <stop
+         id="stop1779"
+         offset="1"
+         style="stop-color:#e106fc;stop-opacity:0" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#4f06fc;fill-opacity:1;fill-rule:evenodd;stroke:#4f06fc;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path859" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1437"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1435" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path856" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path871" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Tail"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Tail">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="scale(-1.2)"
+         id="g895">
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
+           d="M -3.8048674,-3.9585227 0.54352094,0"
+           id="path883" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
+           d="M -1.2866832,-3.9585227 3.0617053,0"
+           id="path885" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
+           d="M 1.3053582,-3.9585227 5.6537466,0"
+           id="path887" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
+           d="M -3.8048674,4.1775838 0.54352094,0.21974226"
+           id="path889" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
+           d="M -1.2866832,4.1775838 3.0617053,0.21974226"
+           id="path891" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
+           d="M 1.3053582,4.1775838 5.6537466,0.21974226"
+           id="path893" />
+      </g>
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path853" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1125"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1123" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path847" />
+    </marker>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="48.947918"
+       x2="3.96875"
+       y1="0.52916664"
+       x1="3.96875"
+       id="linearGradient1783"
+       xlink:href="#linearGradient5209"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1781"
+       id="linearGradient1072"
+       x1="0.59374666"
+       y1="18.528595"
+       x2="2.0228834"
+       y2="18.528595"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1781"
+       id="linearGradient1080"
+       x1="0.95050985"
+       y1="15.716647"
+       x2="2.3868015"
+       y2="15.716647"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="3.96875"
+       x2="-48.947918"
+       y1="3.96875"
+       x1="-0.52916664"
+       id="linearGradient2457"
+       xlink:href="#linearGradient5209"
+       inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3975-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:collect="always">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#56d0b9;fill-opacity:1;fill-rule:evenodd;stroke:#56d0b9;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3973-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3985-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:collect="always">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#56d0b9;fill-opacity:1;fill-rule:evenodd;stroke:#56d0b9;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3983-8" />
+    </marker>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="48.947918"
+       x2="3.96875"
+       y1="0.52916664"
+       x1="3.96875"
+       id="linearGradient1234"
+       xlink:href="#linearGradient5209"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     showguides="false"
+     inkscape:snap-global="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="527"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="166.83367"
+     inkscape:cx="40.731998"
+     inkscape:zoom="11.313709"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#0d1117"
+     id="base">
+    <inkscape:grid
+       id="grid833"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Cynnexis Timeline</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="opacity:0.998;fill:#0d1117;fill-opacity:0;stroke:none;stroke-width:0.53684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1724"
+       width="21.166666"
+       height="48.947918"
+       x="0"
+       y="0"
+       ry="1.3229166" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       id="text837"
+       y="5.2341642"
+       x="3.4549181"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         y="5.2341642"
+         x="3.4549181"
+         id="tspan835">2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#bc8dff;fill-opacity:1;stroke-width:0.264583"
+       x="7.1141167"
+       y="1.8379725"
+       id="text843"><tspan
+         id="tspan841"
+         x="7.1141167"
+         y="1.8379725"
+         sodipodi:role="line">CNRS - Institut des Sciences Cognitives</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path845"
+       d="M 3.96875,0.52916667 V 48.947917"
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1783);stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart)" />
+    <text
+       id="text2229"
+       y="2.5153937"
+       x="7.0966539"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan2231"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="2.5153937"
+         x="7.0966539">Ingénieur assistant de recherche.</tspan><tspan
+         id="tspan2439"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="3.0445607"
+         x="7.0966539" /><tspan
+         id="tspan2441"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="3.5737276"
+         x="7.0966539">• Création d'une architecture Web et d'une application</tspan><tspan
+         id="tspan2445"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="4.1028948"
+         x="7.0966539">mobile en Flutter pour un sondage interactif,</tspan><tspan
+         id="tspan2443"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="4.632062"
+         x="7.0966539">• Traitement de nuages de points 3D.</tspan></text>
+    <path
+       id="path2235"
+       d="m 4.7625,6.0854167 v -4.7625"
+       style="fill:none;fill-opacity:1;stroke:#bc8dff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2509);marker-end:url(#DotS)" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       x="5.2602696"
+       y="6.2124166"
+       id="text3011"><tspan
+         id="tspan3009"
+         x="5.2602696"
+         y="6.2124166"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Novembre 2020</tspan></text>
+    <text
+       id="text3015"
+       y="1.4499168"
+       x="5.2602692"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         sodipodi:role="line"
+         y="1.4499168"
+         x="5.2602692"
+         id="tspan3013">présent</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       x="3.477915"
+       y="17.190861"
+       id="text3019"><tspan
+         id="tspan3017"
+         x="3.477915"
+         y="17.190861"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line">2020</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-opacity:1;stroke:#8dbaff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3037);marker-end:url(#marker3047)"
+       d="M 4.7625,36.247917 V 7.9375"
+       id="path3033" />
+    <text
+       id="text3251"
+       y="8.1193571"
+       x="9.1976223"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8dbaff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         y="8.1193571"
+         x="9.1976223"
+         id="tspan3249">Polytech Lyon (Cycle Ingénieur)</tspan></text>
+    <text
+       id="text3255"
+       y="7.9336195"
+       x="6.874228"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         sodipodi:role="line"
+         y="7.9336195"
+         x="6.874228"
+         id="tspan3253">Juillet 2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       x="5.2803779"
+       y="36.505444"
+       id="text3259"><tspan
+         id="tspan3257"
+         x="5.2803779"
+         y="36.505444"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Septembre 2017</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ca2c3c;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3975);marker-end:url(#marker3985)"
+       d="m 6.35,14.2875 v -6.35"
+       id="path3971"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4609"
+       y="14.410973"
+       x="6.8477693"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         sodipodi:role="line"
+         y="14.410973"
+         x="6.8477693"
+         id="tspan4607">Mars 2020</tspan></text>
+    <text
+       id="text4613"
+       y="9.7036819"
+       x="9.2378387"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ca2c3c;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         y="9.7036819"
+         x="9.2378387"
+         id="tspan4611">Solutec Lyon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       x="9.2133207"
+       y="10.465328"
+       id="text4617"><tspan
+         x="9.2133207"
+         y="10.465328"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan4615">Stage en Recherche &amp; Développement.</tspan><tspan
+         id="tspan4623"
+         x="9.2133207"
+         y="10.994495"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;">La mission était de créer un chatbot pour</tspan><tspan
+         x="9.2133207"
+         y="11.523663"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1100">répondre aux éventuelles questions</tspan><tspan
+         x="9.2133207"
+         y="12.052829"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1102">administratives que les employés peuvent avoir.</tspan><tspan
+         x="9.2133207"
+         y="12.581996"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1090" /><tspan
+         x="9.2133207"
+         y="13.111163"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1082">• Traitement du langage naturel avec spaCy,</tspan><tspan
+         x="9.2133207"
+         y="13.64033"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1084">• Développement de réseaux de neurones</tspan><tspan
+         x="9.2133207"
+         y="14.169497"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1104">denses, convolutifs et récursifs (TensorFlow),</tspan><tspan
+         x="9.2133207"
+         y="14.698664"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1086">• Mise en place d'une base de données</tspan><tspan
+         x="9.2133207"
+         y="15.227831"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1106">MongoDB sur Docker,</tspan><tspan
+         x="9.2133207"
+         y="15.756998"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1088">• Développement d'une Pipeline CI/CD sur</tspan><tspan
+         x="9.2133207"
+         y="16.286165"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         id="tspan1108">GitLab.</tspan></text>
+    <text
+       id="text1048"
+       y="25.027113"
+       x="3.4698782"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         y="25.027113"
+         x="3.4698782"
+         id="tspan1046">2019</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       x="3.4753897"
+       y="32.526112"
+       id="text1052"><tspan
+         id="tspan1050"
+         x="3.4753897"
+         y="32.526112"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line">2018</tspan></text>
+    <text
+       id="text1056"
+       y="39.050385"
+       x="3.446749"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+         y="39.050385"
+         x="3.446749"
+         id="tspan1054">2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+       x="3.4649279"
+       y="43.021954"
+       id="text1060"><tspan
+         id="tspan1058"
+         x="3.4649279"
+         y="43.021954"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+         sodipodi:role="line">2015</tspan></text>
+    <text
+       id="text1064"
+       y="46.98259"
+       x="3.446749"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         y="46.98259"
+         x="3.446749"
+         id="tspan1062">1997</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e9518f;fill-opacity:1;stroke-width:0.264583"
+       x="9.1976223"
+       y="23.197433"
+       id="text1054"><tspan
+         style="fill:#e9518d;fill-opacity:1"
+         id="tspan1052"
+         x="9.1976223"
+         y="23.197433"
+         sodipodi:role="line">McMaster University</tspan></text>
+    <text
+       id="text1081"
+       y="23.991182"
+       x="9.1976223"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan1063"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="23.991182"
+         x="9.1976223">McMaster est une université située à Hamilton,</tspan><tspan
+         id="tspan1103"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="24.52035"
+         x="9.1976223">au Canada. Stage de recherche en Optimisation</tspan><tspan
+         id="tspan1109"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="25.049517"
+         x="9.1976223">Mathématique. La mission était de manipuler</tspan><tspan
+         id="tspan1111"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="25.578684"
+         x="9.1976223">une formulation d'un modèle mathématique</tspan><tspan
+         id="tspan1113"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="26.107851"
+         x="9.1976223">sur une raffinerie de façon à gérer les arrêts</tspan><tspan
+         id="tspan1115"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="26.637018"
+         x="9.1976223">non-anticipés des machines, avec différentes</tspan><tspan
+         id="tspan1117"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="27.166183"
+         x="9.1976223">durées d'arrêt.</tspan><tspan
+         id="tspan1065"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="27.695351"
+         x="9.1976223" /><tspan
+         id="tspan1079"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="28.224518"
+         x="9.1976223">• Formulation d'un modèle mathématique</tspan><tspan
+         id="tspan1150"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="28.753685"
+         x="9.1976223">multi-périodes,</tspan><tspan
+         id="tspan1146"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="29.282852"
+         x="9.1976223">• Comprendre le fonctionnement d'un</tspan><tspan
+         id="tspan1152"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="29.812019"
+         x="9.1976223">optimiseur mathématique,</tspan><tspan
+         id="tspan1148"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="30.341187"
+         x="9.1976223">• Participation à l'écriture d'un article</tspan><tspan
+         id="tspan1154"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="30.870354"
+         x="9.1976223">scientifique sur le projet.</tspan></text>
+    <text
+       style="font-size:0.705556px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1085);"
+       id="text1083"
+       xml:space="preserve" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path1192"
+       d="M 5.55625,20.902083 V 7.9375"
+       style="fill:none;fill-opacity:1;stroke:#ff9400;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1196);marker-end:url(#marker1206)" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff9400;fill-opacity:1;stroke-width:0.264583"
+       x="9.260417"
+       y="18.785418"
+       id="text1786"><tspan
+         id="tspan1784"
+         x="9.260417"
+         y="18.785418"
+         sodipodi:role="line">Master en Intelligence Artificielle</tspan><tspan
+         id="tspan1800"
+         x="9.260417"
+         y="19.490974"
+         sodipodi:role="line">à l'Université Lyon 1</tspan></text>
+    <text
+       id="text1826"
+       y="20.372917"
+       x="9.260417"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan1824"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="20.372917"
+         x="9.260417">Université Lyon 1, double-diplôme avec</tspan><tspan
+         id="tspan1905"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="20.902084"
+         x="9.260417">Polytech Lyon</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path1955"
+       d="m 5.5562499,30.95625 1e-7,-7.672917"
+       style="fill:none;fill-opacity:1;stroke:#e9518f;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2233);marker-end:url(#marker2243)" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       x="6.0741277"
+       y="20.993277"
+       id="text2417"><tspan
+         id="tspan2415"
+         x="6.0741277"
+         y="20.993277"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Septembre 2019</tspan></text>
+    <text
+       id="text2433"
+       y="31.047445"
+       x="6.0741277"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         sodipodi:role="line"
+         y="31.047445"
+         x="6.0741277"
+         id="tspan2431">Septembre 2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       x="6.0804777"
+       y="23.384933"
+       id="text2437"><tspan
+         id="tspan2435"
+         x="6.0804777"
+         y="23.384933"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Janvier 2019</tspan></text>
+    <text
+       transform="rotate(-90)"
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient2457);fill-opacity:1.0;stroke-width:0.264583"
+       x="-6.988627"
+       y="3.8455231"
+       id="text2449"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient2457);fill-opacity:1.0"
+         id="tspan2447"
+         x="-6.988627"
+         y="3.8455231"
+         sodipodi:role="line">TIME</tspan></text>
+    <path
+       id="path2887"
+       d="m 4.7625,35.71875 c 0,-1.322917 0.79375,-0.79375 0.79375,-2.645833"
+       style="fill:none;fill-opacity:1;stroke:#8dbaff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2901)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8dbaff;fill-opacity:1;stroke-width:0.264583"
+       x="6.3331189"
+       y="33.169983"
+       id="text3229"><tspan
+         id="tspan3227"
+         x="6.3331189"
+         y="33.169983"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8dbaff;fill-opacity:1">Création accidentelle</tspan><tspan
+         id="tspan3243"
+         x="6.3331189"
+         y="33.529617"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8dbaff;fill-opacity:1">d'un univers parallèle</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3971-7"
+       d="m 4.7625,40.48125 v -3.175"
+       style="fill:none;fill-opacity:1;stroke:#56d0b9;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3975-5);marker-end:url(#marker3985-0)" />
+    <text
+       id="text1054-3"
+       y="37.75322"
+       x="9.2046776"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#56d0b9;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         y="37.75322"
+         x="9.2046776"
+         id="tspan1052-5"
+         style="fill:#56d0b9;fill-opacity:1;stroke-width:0.264583">Université Grenoble Alpes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="9.2133207"
+       y="38.765823"
+       id="text1081-3"><tspan
+         x="9.2133207"
+         y="38.765823"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1154-1">L1 et L2 Mathématiques-Informatique, classe</tspan><tspan
+         id="tspan4815"
+         x="9.2133207"
+         y="39.294991"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">préparatoire avec Polytech Grenoble</tspan></text>
+    <text
+       id="text4819"
+       y="37.306252"
+       x="5.2916665"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;"
+         sodipodi:role="line"
+         y="37.306252"
+         x="5.2916665"
+         id="tspan4817">Juin 2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#b8b8b8;fill-opacity:1;"
+       x="5.2803779"
+       y="40.572441"
+       id="text4823"><tspan
+         id="tspan4821"
+         x="5.2803779"
+         y="40.572441"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1;">Septembre 2015</tspan></text>
+    <circle
+       r="0.26458332"
+       cy="46.831249"
+       cx="3.96875"
+       id="path5273"
+       style="opacity:0.998;fill:#df0cfc;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5279"
+       y="47.011471"
+       x="4.7338195"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.529167px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="47.011471"
+         x="4.7338195"
+         id="tspan5277">Hello world!</tspan></text>
+    <circle
+       style="opacity:0.998;fill:#cd06fc;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5283"
+       cx="3.96875"
+       cy="41.804165"
+       r="0.26458332" />
+    <text
+       id="text5289"
+       y="41.943604"
+       x="4.715404"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:0.529167px;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         sodipodi:role="line"
+         y="41.943604"
+         x="4.715404"
+         id="tspan5287">Bac Scientifique</tspan></text>
+  </g>
+</svg>

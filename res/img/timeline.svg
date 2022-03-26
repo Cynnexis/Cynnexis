@@ -8,604 +8,604 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="80"
-   height="185"
-   viewBox="0 0 21.166666 48.947917"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="timeline.svg"
-   inkscape:export-filename="timeline.png"
+   inkscape:export-ydpi="1228.8"
    inkscape:export-xdpi="1228.8"
-   inkscape:export-ydpi="1228.8">
+   inkscape:export-filename="timeline.png"
+   sodipodi:docname="timeline.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 21.166666 48.947917"
+   height="185"
+   width="80">
   <title
      id="title839">Cynnexis Timeline</title>
   <defs
      id="defs2">
     <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1488"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1240"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#e106fc;stroke-width:1pt;stroke-opacity:1;fill:#e106fc;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
        inkscape:isstock="true"
        style="overflow:visible;"
-       id="marker1488"
+       id="marker6287"
        refX="0.0"
        refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow1Send">
       <path
          transform="scale(0.2) rotate(180) translate(6,0)"
-         style="fill-rule:evenodd;stroke:#e106fc;stroke-width:1pt;stroke-opacity:1;fill:#e106fc;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path1240" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Send"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="marker6287"
-       style="overflow:visible;"
-       inkscape:isstock="true">
-      <path
-         id="path6285"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:#df0cfc;stroke-width:1pt;stroke-opacity:1;fill:#df0cfc;fill-opacity:1"
-         transform="scale(0.2) rotate(180) translate(6,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Send"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow2Send"
-       style="overflow:visible;"
-       inkscape:isstock="true">
-      <path
-         id="path5652"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Send"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Send"
-       style="overflow:visible;"
-       inkscape:isstock="true">
-      <path
-         id="path5634"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6285" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5652" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.2) rotate(180) translate(6,0)" />
-    </marker>
-    <linearGradient
-       id="linearGradient5209"
-       inkscape:collect="always">
-      <stop
-         id="stop5203"
-         offset="0"
-         style="stop-color:#4f06fc;stop-opacity:1;" />
-      <stop
-         style="stop-color:#de06fc;stop-opacity:1;"
-         offset="0.97267759"
-         id="stop5205" />
-      <stop
-         id="stop5207"
-         offset="1"
-         style="stop-color:#e106fc;stop-opacity:0" />
-    </linearGradient>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker2901"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path2899"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker2891"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path2889"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker2581"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="DotS">
-      <path
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
-         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path2579" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker2571"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="DotS">
-      <path
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
-         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path2569" />
-    </marker>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker2243"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path2241"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker2233"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path2231"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1206"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path1204"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#ff9400;fill-opacity:1;fill-rule:evenodd;stroke:#ff9400;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1196"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path1194"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#ff9400;fill-opacity:1;fill-rule:evenodd;stroke:#ff9400;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <rect
-       x="20.902082"
-       y="20.637501"
-       width="8.9958334"
-       height="1.3229167"
-       id="rect1085" />
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker3985"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="DotS"
-       inkscape:collect="always">
-      <path
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
-         style="fill:#ca2c3c;fill-opacity:1;fill-rule:evenodd;stroke:#ca2c3c;stroke-width:1pt;stroke-opacity:1"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path3983" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker3975"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="DotS"
-       inkscape:collect="always">
-      <path
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
-         style="fill:#ca2c3c;fill-opacity:1;fill-rule:evenodd;stroke:#ca2c3c;stroke-width:1pt;stroke-opacity:1"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path3973" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker3047"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="DotS"
-       inkscape:collect="always">
-      <path
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
-         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path3045" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker3037"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="DotS"
-       inkscape:collect="always">
-      <path
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
-         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path3035" />
-    </marker>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker2509"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path2507"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#bc8dff;fill-opacity:1;fill-rule:evenodd;stroke:#bc8dff;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="DotS"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path914"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#bc8dff;fill-opacity:1;fill-rule:evenodd;stroke:#bc8dff;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:stockid="SquareS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="SquareS"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path923"
-         d="M -5,-5 V 5 H 5 V -5 Z"
-         style="fill:#773bf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(0.2)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotL"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="DotL"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path908"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#773bf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5634" />
     </marker>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1781">
+       id="linearGradient5209">
       <stop
          style="stop-color:#4f06fc;stop-opacity:1;"
          offset="0"
-         id="stop1777" />
+         id="stop5203" />
       <stop
-         id="stop3297"
-         offset="0.9710983"
+         id="stop5205"
+         offset="0.97267759"
          style="stop-color:#de06fc;stop-opacity:1;" />
       <stop
          style="stop-color:#e106fc;stop-opacity:0"
          offset="1"
-         id="stop1779" />
+         id="stop5207" />
     </linearGradient>
     <marker
-       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2901"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2899" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2891"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2889" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
        orient="auto"
        refY="0"
        refX="0"
+       id="marker2581"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2579"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2571"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2569"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2243"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2241" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2233"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#e9518f;fill-opacity:1;fill-rule:evenodd;stroke:#e9518f;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2231" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1206"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#ff9400;fill-opacity:1;fill-rule:evenodd;stroke:#ff9400;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1204" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1196"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#ff9400;fill-opacity:1;fill-rule:evenodd;stroke:#ff9400;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1194" />
+    </marker>
+    <rect
+       id="rect1085"
+       height="1.3229167"
+       width="8.9958334"
+       y="20.637501"
+       x="20.902082" />
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3985"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3983"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ca2c3c;fill-opacity:1;fill-rule:evenodd;stroke:#ca2c3c;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3975"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3973"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ca2c3c;fill-opacity:1;fill-rule:evenodd;stroke:#ca2c3c;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3047"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3045"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3037"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3035"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#8dbaff;fill-opacity:1;fill-rule:evenodd;stroke:#8dbaff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2509"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#bc8dff;fill-opacity:1;fill-rule:evenodd;stroke:#bc8dff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2507" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#bc8dff;fill-opacity:1;fill-rule:evenodd;stroke:#bc8dff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path914" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="SquareS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#773bf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path923" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#773bf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path908" />
+    </marker>
+    <linearGradient
+       id="linearGradient1781"
+       inkscape:collect="always">
+      <stop
+         id="stop1777"
+         offset="0"
+         style="stop-color:#4f06fc;stop-opacity:1;" />
+      <stop
+         style="stop-color:#de06fc;stop-opacity:1;"
+         offset="0.9710983"
+         id="stop3297" />
+      <stop
+         id="stop1779"
+         offset="1"
+         style="stop-color:#e106fc;stop-opacity:0" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="Arrow1Sstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
       <path
-         id="path859"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
          style="fill:#4f06fc;fill-opacity:1;fill-rule:evenodd;stroke:#4f06fc;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path859" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Mstart"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="marker1437"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
       <path
-         id="path1435"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.4,0,0,0.4,4,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1435" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="Arrow1Mend"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
       <path
-         id="path856"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path856" />
     </marker>
     <marker
-       inkscape:stockid="Arrow2Mstart"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="Arrow2Mstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
       <path
-         id="path871"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         transform="scale(0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(0.6)" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path871" />
     </marker>
     <marker
-       inkscape:stockid="Tail"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Tail"
+       inkscape:isstock="true"
        style="overflow:visible"
-       inkscape:isstock="true">
+       id="Tail"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Tail">
       <g
-         id="g895"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
          transform="scale(-1.2)"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+         id="g895">
         <path
-           id="path883"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
            d="M -3.8048674,-3.9585227 0.54352094,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1" />
+           id="path883" />
         <path
-           id="path885"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
            d="M -1.2866832,-3.9585227 3.0617053,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1" />
+           id="path885" />
         <path
-           id="path887"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
            d="M 1.3053582,-3.9585227 5.6537466,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1" />
+           id="path887" />
         <path
-           id="path889"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
            d="M -3.8048674,4.1775838 0.54352094,0.21974226"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1" />
+           id="path889" />
         <path
-           id="path891"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
            d="M -1.2866832,4.1775838 3.0617053,0.21974226"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1" />
+           id="path891" />
         <path
-           id="path893"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1"
            d="M 1.3053582,4.1775838 5.6537466,0.21974226"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1" />
+           id="path893" />
       </g>
     </marker>
     <marker
-       inkscape:stockid="Arrow1Mstart"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="Arrow1Mstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
       <path
-         id="path853"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.4,0,0,0.4,4,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path853" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="marker1125"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
       <path
-         id="path1123"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.8,0,0,0.8,10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1123" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="Arrow1Lstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
       <path
-         id="path847"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.8,0,0,0.8,10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path847" />
     </marker>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5209"
+       gradientUnits="userSpaceOnUse"
+       y2="48.947918"
+       x2="3.96875"
+       y1="0.52916664"
+       x1="3.96875"
        id="linearGradient1783"
-       x1="3.96875"
-       y1="0.52916664"
-       x2="3.96875"
-       y2="48.947918"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient5209"
+       inkscape:collect="always" />
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="18.528595"
-       x2="2.0228834"
-       y1="18.528595"
-       x1="0.59374666"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1781"
        id="linearGradient1072"
-       xlink:href="#linearGradient1781"
-       inkscape:collect="always" />
+       x1="0.59374666"
+       y1="18.528595"
+       x2="2.0228834"
+       y2="18.528595"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="15.716647"
-       x2="2.3868015"
-       y1="15.716647"
-       x1="0.95050985"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1781"
        id="linearGradient1080"
-       xlink:href="#linearGradient1781"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5209"
-       id="linearGradient2457"
-       x1="-0.52916664"
-       y1="3.96875"
-       x2="-48.947918"
-       y2="3.96875"
-       gradientUnits="userSpaceOnUse" />
-    <marker
-       inkscape:collect="always"
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker3975-5"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path3973-8"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#56d0b9;fill-opacity:1;fill-rule:evenodd;stroke:#56d0b9;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <marker
-       inkscape:collect="always"
-       inkscape:stockid="DotS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker3985-0"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path3983-8"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         style="fill:#56d0b9;fill-opacity:1;fill-rule:evenodd;stroke:#56d0b9;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
-    </marker>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5209"
-       id="linearGradient1234"
-       x1="3.96875"
-       y1="0.52916664"
-       x2="3.96875"
-       y2="48.947918"
+       x1="0.95050985"
+       y1="15.716647"
+       x2="2.3868015"
+       y2="15.716647"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="48.683334"
-       x2="3.96875"
-       y1="0.79374999"
-       x1="3.96875"
-       id="linearGradient1403"
-       xlink:href="#linearGradient1781"
+       y2="3.96875"
+       x2="-48.947918"
+       y1="3.96875"
+       x1="-0.52916664"
+       id="linearGradient2457"
+       xlink:href="#linearGradient5209"
        inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3975-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:collect="always">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#56d0b9;fill-opacity:1;fill-rule:evenodd;stroke:#56d0b9;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3973-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3985-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:collect="always">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#56d0b9;fill-opacity:1;fill-rule:evenodd;stroke:#56d0b9;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3983-8" />
+    </marker>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="48.947918"
+       x2="3.96875"
+       y1="0.52916664"
+       x1="3.96875"
+       id="linearGradient1234"
+       xlink:href="#linearGradient5209"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1781"
+       id="linearGradient1403"
+       x1="3.96875"
+       y1="0.79374999"
+       x2="3.96875"
+       y2="48.683334"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#141f2e"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="25.274889"
-     inkscape:cy="76.183582"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="true"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-text-baseline="true"
+     showguides="false"
      inkscape:snap-global="true"
-     showguides="false">
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="14.488947"
+     inkscape:cx="22.718275"
+     inkscape:zoom="11.313709"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#141f2e"
+     id="base">
     <inkscape:grid
-       type="xygrid"
-       id="grid833" />
+       id="grid833"
+       type="xygrid" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -620,604 +620,611 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Background"
-     id="layer2"
-     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
      style="display:inline"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
     <rect
-       ry="1.3229166"
-       y="0"
-       x="0"
-       height="48.947918"
-       width="21.166666"
+       style="opacity:0.998;fill:#0d1117;fill-opacity:0;stroke:none;stroke-width:0.53684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1724"
-       style="opacity:0.998;fill:#0d1117;fill-opacity:0;stroke:none;stroke-width:0.53684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:0.998;fill:#0d1117;fill-opacity:1;stroke-width:0.53684;stroke-linecap:round;stroke-linejoin:round"
-       id="rect2040"
        width="21.166666"
        height="48.947918"
        x="0"
        y="0"
-       ry="1.3229162" />
+       ry="1.3229166" />
+    <rect
+       ry="1.3229162"
+       y="0"
+       x="0"
+       height="48.947918"
+       width="21.166666"
+       id="rect2040"
+       style="opacity:0.998;fill:#0d1117;fill-opacity:1;stroke-width:0.53684;stroke-linecap:round;stroke-linejoin:round" />
   </g>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline">
+     sodipodi:insensitive="true"
+     style="display:inline"
+     inkscape:label="Timeline"
+     id="layer3"
+     inkscape:groupmode="layer">
     <text
-       xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="3.4549181"
+       id="text837"
        y="5.2341642"
-       id="text837"><tspan
-         id="tspan835"
-         x="3.4549181"
+       x="3.4549181"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          y="5.2341642"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:role="line">2021</tspan></text>
-    <text
-       id="text843"
-       y="1.8379725"
-       x="7.1141167"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#bc8dff;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         y="1.8379725"
-         x="7.1141167"
-         id="tspan841">CNRS - Institut des Sciences Cognitives</tspan></text>
+         x="3.4549181"
+         id="tspan835">2021</tspan></text>
     <path
-       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1783);stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart)"
-       d="M 3.96875,0.52916667 V 48.947917"
+       sodipodi:nodetypes="cc"
        id="path845"
-       sodipodi:nodetypes="cc" />
+       d="M 3.96875,0.52916667 V 48.947917"
+       style="display:inline;fill:none;fill-opacity:1;stroke:url(#linearGradient1783);stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart)" />
     <text
        xml:space="preserve"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="7.0966539"
-       y="2.5153937"
-       id="text2229"><tspan
-         x="7.0966539"
-         y="2.5153937"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         id="tspan2231">Research assistant engineer.</tspan><tspan
-         x="7.0966539"
-         y="3.0445607"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         id="tspan2439" /><tspan
-         id="tspan1222"
-         x="7.0966539"
-         y="3.5737276"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">• Developed a web architecture and a mobile</tspan><tspan
-         id="tspan1226"
-         x="7.0966539"
-         y="4.1028948"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">application for an interactive survey,</tspan><tspan
-         x="7.0966539"
-         y="4.632062"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         id="tspan2443">• Deployed the architecture with Docker, Apache,</tspan><tspan
-         id="tspan1228"
-         x="7.0966539"
-         y="5.1612287"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">MongoDB, Prometheus and Traefik,</tspan><tspan
-         id="tspan1230"
-         x="7.0966539"
-         y="5.6903958"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">• Applied image processing using state-of-the-art</tspan><tspan
-         id="tspan1232"
-         x="7.0966539"
-         y="6.2195625"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">algorithms.</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       style="fill:none;fill-opacity:1;stroke:#bc8dff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2509);marker-end:url(#DotS)"
-       d="m 4.7624999,7.9374999 1e-7,-6.6145832"
-       id="path2235" />
-    <text
-       id="text3011"
-       y="8.0644999"
-       x="5.2602692"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
-         sodipodi:role="line"
-         y="8.0644999"
-         x="5.2602692"
-         id="tspan3009">November 2020</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       x="5.2602692"
-       y="1.4499168"
-       id="text3015"><tspan
-         id="tspan3013"
-         x="5.2602692"
-         y="1.4499168"
-         sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">present</tspan></text>
-    <text
-       id="text3019"
-       y="17.190861"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="3.477915"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         y="17.190861"
+       y="17.190861"
+       id="text3019"><tspan
+         id="tspan3017"
          x="3.477915"
-         id="tspan3017">2020</tspan></text>
-    <path
-       id="path3033"
-       d="m 4.7625,36.247917 -1e-7,-25.929167"
-       style="fill:none;fill-opacity:1;stroke:#8dbaff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3037);marker-end:url(#marker3047)"
-       sodipodi:nodetypes="cc" />
+         y="17.190861"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:role="line">2020</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8dbaff;fill-opacity:1;stroke-width:0.264583"
-       x="9.1976223"
-       y="9.4422731"
-       id="text3251"><tspan
-         id="tspan3249"
-         x="9.1976223"
-         y="9.4422731"
-         sodipodi:role="line">Polytech Lyon (Engineering Degree)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       x="6.8742275"
-       y="10.408091"
-       id="text3255"><tspan
-         id="tspan3253"
-         x="6.8742275"
-         y="10.408091"
-         sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">July 2020</tspan></text>
-    <text
-       id="text3259"
-       y="36.505444"
-       x="5.2803779"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
-         sodipodi:role="line"
-         y="36.505444"
-         x="5.2803779"
-         id="tspan3257">September 2017</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       id="path3971"
-       d="m 6.3499999,16.66875 v -6.35"
-       style="fill:none;fill-opacity:1;stroke:#ca2c3c;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3975);marker-end:url(#marker3985)" />
-    <text
-       xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       x="6.8477693"
-       y="16.79575"
-       id="text4609"><tspan
-         id="tspan4607"
-         x="6.8477693"
-         y="16.79575"
-         sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">March 2020</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ca2c3c;fill-opacity:1;stroke-width:0.264583"
-       x="9.2378387"
-       y="10.569222"
-       id="text4613"><tspan
-         id="tspan4611"
-         x="9.2378387"
-         y="10.569222"
-         sodipodi:role="line">Solutec Lyon</tspan></text>
-    <text
-       id="text4617"
-       y="11.330869"
-       x="9.2133207"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         id="tspan1102"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="11.330869"
-         x="9.2133207">Research &amp; Development internship. The</tspan><tspan
-         id="tspan1243"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="11.860036"
-         x="9.2133207">mission was to build a Chatbot for the Solutec</tspan><tspan
-         id="tspan1245"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="12.389203"
-         x="9.2133207">employees to answers their questions about the</tspan><tspan
-         id="tspan1247"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="12.918369"
-         x="9.2133207">organization.</tspan><tspan
-         id="tspan1090"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="13.447536"
-         x="9.2133207" /><tspan
-         id="tspan1082"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="13.976704"
-         x="9.2133207">• Natural language processing using spaCy,</tspan><tspan
-         id="tspan1104"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="14.505871"
-         x="9.2133207">• Created dense, convolutional and recursive</tspan><tspan
-         id="tspan1251"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="15.035038"
-         x="9.2133207">neural networks with TensorFlow,</tspan><tspan
-         id="tspan1108"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         y="15.564204"
-         x="9.2133207">• Developed a CI/CD pipeline on GitLab.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="3.4698782"
+       id="text1048"
        y="25.027113"
-       id="text1048"><tspan
-         id="tspan1046"
-         x="3.4698782"
+       x="3.4698782"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          y="25.027113"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:role="line">2019</tspan></text>
+         x="3.4698782"
+         id="tspan1046">2019</tspan></text>
     <text
-       id="text1052"
-       y="32.526112"
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="3.4753897"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         y="32.526112"
+       y="32.526112"
+       id="text1052"><tspan
+         id="tspan1050"
          x="3.4753897"
-         id="tspan1050">2018</tspan></text>
+         y="32.526112"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:role="line">2018</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="3.446749"
+       id="text1056"
        y="39.050385"
-       id="text1056"><tspan
-         id="tspan1054"
-         x="3.446749"
-         y="39.050385"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:role="line">2017</tspan></text>
-    <text
-       id="text1060"
-       y="43.021954"
-       x="3.4649279"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         y="43.021954"
-         x="3.4649279"
-         id="tspan1058">2015</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="3.446749"
-       y="46.98259"
-       id="text1064"><tspan
-         id="tspan1062"
-         x="3.446749"
-         y="46.98259"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
          style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:role="line">1997</tspan></text>
-    <text
-       id="text1054"
-       y="23.197433"
-       x="9.1976223"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e9518f;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         y="23.197433"
-         x="9.1976223"
-         id="tspan1052"
-         style="fill:#e9518d;fill-opacity:1">McMaster University</tspan></text>
+         y="39.050385"
+         x="3.446749"
+         id="tspan1054">2017</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="9.1976223"
-       y="23.991182"
-       id="text1081"><tspan
-         x="9.1976223"
-         y="23.991182"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         id="tspan1117">McMaster is a university located in Hamilton,</tspan><tspan
-         id="tspan1331"
-         x="9.1976223"
-         y="24.52035"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">Canada. Research internship in Mathematical</tspan><tspan
-         id="tspan1297"
-         x="9.1976223"
-         y="25.049517"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">Optimization. The goal was to handle the</tspan><tspan
-         id="tspan1299"
-         x="9.1976223"
-         y="25.578684"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">formulation of a mathematical model on an oil</tspan><tspan
-         id="tspan1301"
-         x="9.1976223"
-         y="26.107851"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">refinery in order to manage the uncertainty of</tspan><tspan
-         id="tspan1303"
-         x="9.1976223"
-         y="26.637018"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">shutting down machines for different durations.</tspan><tspan
-         x="9.1976223"
-         y="27.166183"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         id="tspan1065" /><tspan
-         x="9.1976223"
-         y="27.695351"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         id="tspan1154">• Wrote a multiperiod model,</tspan><tspan
-         id="tspan1325"
-         x="9.1976223"
-         y="28.224518"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">• Understand how mathematical optimizers</tspan><tspan
-         id="tspan1329"
-         x="9.1976223"
-         y="28.753685"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">work,</tspan><tspan
-         id="tspan1327"
-         x="9.1976223"
-         y="29.282852"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">• Contributed to a scientific journal.</tspan></text>
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="3.4649279"
+       y="43.021954"
+       id="text1060"><tspan
+         id="tspan1058"
+         x="3.4649279"
+         y="43.021954"
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:role="line">2015</tspan></text>
     <text
-       xml:space="preserve"
-       id="text1083"
-       style="font-size:0.705556px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1085);" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ff9400;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1196);marker-end:url(#marker1206)"
-       d="m 5.55625,20.902083 -1e-7,-10.583333"
-       id="path1192"
-       sodipodi:nodetypes="cc" />
-    <text
-       id="text1786"
-       y="18.785418"
-       x="9.260417"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff9400;fill-opacity:1;stroke-width:0.264583"
+       id="text1064"
+       y="46.98259"
+       x="3.446749"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         y="18.785418"
-         x="9.260417"
-         id="tspan1784">Master's Degree in Artificial</tspan><tspan
-         sodipodi:role="line"
-         y="19.490974"
-         x="9.260417"
-         id="tspan1800">Intelligence</tspan></text>
+         style="font-size:0.705556px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="46.98259"
+         x="3.446749"
+         id="tspan1062">1997</tspan></text>
     <text
+       transform="rotate(-90)"
        xml:space="preserve"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="9.260417"
-       y="20.372917"
-       id="text1826"><tspan
-         x="9.260417"
-         y="20.372917"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
-         id="tspan1905">Université Lyon 1, double degree with</tspan><tspan
-         id="tspan1268"
-         x="9.260417"
-         y="20.902084"
-         sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1">Polytech Lyon</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#e9518f;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2233);marker-end:url(#marker2243)"
-       d="m 5.5562499,30.95625 1e-7,-7.672917"
-       id="path1955"
-       sodipodi:nodetypes="cc" />
-    <text
-       id="text2417"
-       y="20.993277"
-       x="6.0741277"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
-         sodipodi:role="line"
-         y="20.993277"
-         x="6.0741277"
-         id="tspan2415">September 2019</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       x="6.0741277"
-       y="31.047445"
-       id="text2433"><tspan
-         id="tspan2431"
-         x="6.0741277"
-         y="31.047445"
-         sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">September 2018</tspan></text>
-    <text
-       id="text2437"
-       y="23.384933"
-       x="6.0804777"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
-         sodipodi:role="line"
-         y="23.384933"
-         x="6.0804777"
-         id="tspan2435">January 2019</tspan></text>
-    <text
-       id="text2449"
-       y="3.8455231"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient2457);fill-opacity:1;stroke-width:0.264583"
        x="-6.988627"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient2457);fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         y="3.8455231"
-         x="-6.988627"
+       y="3.8455231"
+       id="text2449"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient2457);fill-opacity:1"
          id="tspan2447"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient2457);fill-opacity:1">TIME</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       style="fill:none;fill-opacity:1;stroke:#8dbaff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2901)"
-       d="m 4.7625,35.71875 c 0,-1.322917 0.79375,-0.79375 0.79375,-2.645833"
-       id="path2887" />
-    <text
-       id="text3229"
-       y="33.169983"
-       x="6.3331189"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8dbaff;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8dbaff;fill-opacity:1"
-         sodipodi:role="line"
-         y="33.169983"
-         x="6.3331189"
-         id="tspan3243">Unintended creation of</tspan><tspan
-         id="tspan1335"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8dbaff;fill-opacity:1"
-         sodipodi:role="line"
-         y="33.529617"
-         x="6.3331189">a parallel universe</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#56d0b9;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3975-5);marker-end:url(#marker3985-0)"
-       d="m 4.7625,40.48125 v -3.175"
-       id="path3971-7"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#56d0b9;fill-opacity:1;stroke-width:0.264583"
-       x="9.2046776"
-       y="37.75322"
-       id="text1054-3"><tspan
-         style="fill:#56d0b9;fill-opacity:1;stroke-width:0.264583"
-         id="tspan1052-5"
-         x="9.2046776"
-         y="37.75322"
-         sodipodi:role="line">Université Grenoble Alpes</tspan></text>
-    <text
-       id="text1081-3"
-       y="38.765823"
-       x="9.2133207"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:role="line"
-         y="38.765823"
-         x="9.2133207"
-         id="tspan4815">First and second year of a Bachelor's Degree in</tspan><tspan
-         id="tspan1339"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:role="line"
-         y="39.294991"
-         x="9.2133207">Computer Science and Mathematics</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       x="5.2916665"
-       y="37.306252"
-       id="text4819"><tspan
-         id="tspan4817"
-         x="5.2916665"
-         y="37.306252"
-         sodipodi:role="line"
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">June 2017</tspan></text>
-    <text
-       id="text4823"
-       y="40.572441"
-       x="5.2803779"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
-         sodipodi:role="line"
-         y="40.572441"
-         x="5.2803779"
-         id="tspan4821">September 2015</tspan></text>
-    <circle
-       style="opacity:0.998;fill:#df0cfc;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path5273"
-       cx="3.96875"
-       cy="46.831249"
-       r="0.26458332" />
-    <text
-       xml:space="preserve"
-       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="4.7338195"
-       y="47.011471"
-       id="text5279"><tspan
-         id="tspan5277"
-         x="4.7338195"
-         y="47.011471"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.529167px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Hello world!</tspan></text>
+         x="-6.988627"
+         y="3.8455231"
+         sodipodi:role="line">TIME</tspan></text>
     <circle
        r="0.26458332"
-       cy="41.804165"
+       cy="46.831249"
        cx="3.96875"
+       id="path5273"
+       style="display:inline;opacity:0.998;fill:#df0cfc;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="display:inline;opacity:0.998;fill:#cd06fc;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle5283"
-       style="opacity:0.998;fill:#cd06fc;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="3.96875"
+       cy="41.804165"
+       r="0.26458332" />
+    <ellipse
+       style="display:inline;opacity:0.998;fill:none;fill-opacity:1;stroke:url(#linearGradient1403);stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1393"
+       ry="0.79374963"
+       rx="0.79374993"
+       cy="21.166666"
+       cx="3.175" />
+    <text
+       id="text1409"
+       y="20.398754"
+       x="0.5221042"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#8c06f9;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8c06f9;fill-opacity:1"
+         sodipodi:role="line"
+         y="20.398754"
+         x="0.5221042"
+         id="tspan1506">Unexpected</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8c06f9;fill-opacity:1"
+         sodipodi:role="line"
+         y="20.758387"
+         x="0.5221042"
+         id="tspan1512">time loop</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Events">
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#bc8dff;fill-opacity:1;stroke-width:0.264583"
+       x="7.1141167"
+       y="2.6317225"
+       id="text843"><tspan
+         id="tspan841"
+         x="7.1141167"
+         y="2.6317225"
+         sodipodi:role="line">CNRS - Institut des Sciences Cognitives</tspan></text>
+    <text
+       id="text2229"
+       y="3.3091438"
+       x="7.0966539"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2231"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="3.3091438"
+         x="7.0966539">Research assistant engineer.</tspan><tspan
+         id="tspan2439"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="3.8383107"
+         x="7.0966539" /><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="4.3674779"
+         x="7.0966539"
+         id="tspan1222">• Developed a web architecture and a mobile</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="4.8966446"
+         x="7.0966539"
+         id="tspan1226">application for an interactive survey,</tspan><tspan
+         id="tspan2443"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="5.4258118"
+         x="7.0966539">• Deployed the architecture with Docker, Apache,</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="5.9549789"
+         x="7.0966539"
+         id="tspan1228">MongoDB, Prometheus and Traefik,</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="6.4841456"
+         x="7.0966539"
+         id="tspan1230">• Applied image processing using state-of-the-art</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="7.0133128"
+         x="7.0966539"
+         id="tspan1232">algorithms.</tspan></text>
+    <path
+       id="path2235"
+       d="m 4.7624999,7.9374999 1e-7,-6.6145832"
+       style="fill:none;fill-opacity:1;stroke:#bc8dff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2509);marker-end:url(#DotS)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       x="5.2602692"
+       y="8.0644999"
+       id="text3011"><tspan
+         id="tspan3009"
+         x="5.2602692"
+         y="8.0644999"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">November 2020</tspan></text>
+    <text
+       id="text3015"
+       y="1.4499168"
+       x="5.2602692"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
+         sodipodi:role="line"
+         y="1.4499168"
+         x="5.2602692"
+         id="tspan3013">March 2022</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-opacity:1;stroke:#8dbaff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3037);marker-end:url(#marker3047)"
+       d="m 4.7625,36.247917 -1e-7,-25.929167"
+       id="path3033" />
+    <text
+       id="text3251"
+       y="9.4422731"
+       x="9.1976223"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8dbaff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         y="9.4422731"
+         x="9.1976223"
+         id="tspan3249">Polytech Lyon (Engineering Degree)</tspan></text>
+    <text
+       id="text3255"
+       y="10.408091"
+       x="6.8742275"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
+         sodipodi:role="line"
+         y="10.408091"
+         x="6.8742275"
+         id="tspan3253">July 2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       x="5.2803779"
+       y="36.505444"
+       id="text3259"><tspan
+         id="tspan3257"
+         x="5.2803779"
+         y="36.505444"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">September 2017</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ca2c3c;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3975);marker-end:url(#marker3985)"
+       d="m 6.3499999,16.66875 v -6.35"
+       id="path3971"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4609"
+       y="16.79575"
+       x="6.8477693"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
+         sodipodi:role="line"
+         y="16.79575"
+         x="6.8477693"
+         id="tspan4607">March 2020</tspan></text>
+    <text
+       id="text4613"
+       y="10.569222"
+       x="9.2378387"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ca2c3c;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         y="10.569222"
+         x="9.2378387"
+         id="tspan4611">Solutec Lyon</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="4.715404"
-       y="41.943604"
-       id="text5289"><tspan
-         id="tspan5287"
-         x="4.715404"
-         y="41.943604"
+       x="9.2133207"
+       y="11.330869"
+       id="text4617"><tspan
+         x="9.2133207"
+         y="11.330869"
          sodipodi:role="line"
-         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Scientific Baccalaureate (Highschool)</tspan></text>
-    <ellipse
-       cx="3.175"
-       cy="21.166666"
-       rx="0.79374993"
-       ry="0.79374963"
-       id="path1393"
-       style="opacity:0.998;fill:none;fill-opacity:1;stroke:url(#linearGradient1403);stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1102">Research &amp; Development internship. The</tspan><tspan
+         x="9.2133207"
+         y="11.860036"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1243">mission was to build a Chatbot for the Solutec</tspan><tspan
+         x="9.2133207"
+         y="12.389203"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1245">employees to answers their questions about the</tspan><tspan
+         x="9.2133207"
+         y="12.918369"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1247">organization.</tspan><tspan
+         x="9.2133207"
+         y="13.447536"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1090" /><tspan
+         x="9.2133207"
+         y="13.976704"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1082">• Natural language processing using spaCy,</tspan><tspan
+         x="9.2133207"
+         y="14.505871"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1104">• Created dense, convolutional and recursive</tspan><tspan
+         x="9.2133207"
+         y="15.035038"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1251">neural networks with TensorFlow,</tspan><tspan
+         x="9.2133207"
+         y="15.564204"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         id="tspan1108">• Developed a CI/CD pipeline on GitLab.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c06f9;fill-opacity:1;stroke-width:0.264583"
-       x="0.5221042"
-       y="20.398754"
-       id="text1409"><tspan
-         id="tspan1506"
-         x="0.5221042"
-         y="20.398754"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e9518f;fill-opacity:1;stroke-width:0.264583"
+       x="9.1976223"
+       y="23.197433"
+       id="text1054"><tspan
+         style="fill:#e9518d;fill-opacity:1"
+         id="tspan1052"
+         x="9.1976223"
+         y="23.197433"
+         sodipodi:role="line">McMaster University</tspan></text>
+    <text
+       id="text1081"
+       y="23.991182"
+       x="9.1976223"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1117"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8c06f9;fill-opacity:1">Unexpected</tspan><tspan
-         id="tspan1512"
-         x="0.5221042"
-         y="20.758387"
+         y="23.991182"
+         x="9.1976223">McMaster is a university located in Hamilton,</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8c06f9;fill-opacity:1">time loop</tspan></text>
+         y="24.52035"
+         x="9.1976223"
+         id="tspan1331">Canada. Research internship in Mathematical</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="25.049517"
+         x="9.1976223"
+         id="tspan1297">Optimization. The goal was to handle the</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="25.578684"
+         x="9.1976223"
+         id="tspan1299">formulation of a mathematical model on an oil</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="26.107851"
+         x="9.1976223"
+         id="tspan1301">refinery in order to manage the uncertainty of</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="26.637018"
+         x="9.1976223"
+         id="tspan1303">shutting down machines for different durations.</tspan><tspan
+         id="tspan1065"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="27.166183"
+         x="9.1976223" /><tspan
+         id="tspan1154"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="27.695351"
+         x="9.1976223">• Wrote a multiperiod model,</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="28.224518"
+         x="9.1976223"
+         id="tspan1325">• Understand how mathematical optimizers</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="28.753685"
+         x="9.1976223"
+         id="tspan1329">work,</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="29.282852"
+         x="9.1976223"
+         id="tspan1327">• Contributed to a scientific journal.</tspan></text>
+    <text
+       style="font-size:0.705556px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1085);"
+       id="text1083"
+       xml:space="preserve" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path1192"
+       d="m 5.55625,20.902083 -1e-7,-10.583333"
+       style="fill:none;fill-opacity:1;stroke:#ff9400;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1196);marker-end:url(#marker1206)" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff9400;fill-opacity:1;stroke-width:0.264583"
+       x="9.260417"
+       y="18.785418"
+       id="text1786"><tspan
+         id="tspan1784"
+         x="9.260417"
+         y="18.785418"
+         sodipodi:role="line">Master's Degree in Artificial</tspan><tspan
+         id="tspan1800"
+         x="9.260417"
+         y="19.490974"
+         sodipodi:role="line">Intelligence</tspan></text>
+    <text
+       id="text1826"
+       y="20.372917"
+       x="9.260417"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1905"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="20.372917"
+         x="9.260417">Université Lyon 1, double degree with</tspan><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         y="20.902084"
+         x="9.260417"
+         id="tspan1268">Polytech Lyon</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path1955"
+       d="m 5.5562499,30.95625 1e-7,-7.672917"
+       style="fill:none;fill-opacity:1;stroke:#e9518f;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2233);marker-end:url(#marker2243)" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       x="6.0741277"
+       y="20.993277"
+       id="text2417"><tspan
+         id="tspan2415"
+         x="6.0741277"
+         y="20.993277"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">September 2019</tspan></text>
+    <text
+       id="text2433"
+       y="31.047445"
+       x="6.0741277"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
+         sodipodi:role="line"
+         y="31.047445"
+         x="6.0741277"
+         id="tspan2431">September 2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       x="6.0804777"
+       y="23.384933"
+       id="text2437"><tspan
+         id="tspan2435"
+         x="6.0804777"
+         y="23.384933"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">January 2019</tspan></text>
+    <path
+       id="path2887"
+       d="m 4.7625,35.71875 c 0,-1.322917 0.79375,-0.79375 0.79375,-2.645833"
+       style="fill:none;fill-opacity:1;stroke:#8dbaff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2901)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8dbaff;fill-opacity:1;stroke-width:0.264583"
+       x="6.3331189"
+       y="33.169983"
+       id="text3229"><tspan
+         id="tspan3243"
+         x="6.3331189"
+         y="33.169983"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8dbaff;fill-opacity:1">Unintended creation of</tspan><tspan
+         x="6.3331189"
+         y="33.529617"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352778px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#8dbaff;fill-opacity:1"
+         id="tspan1335">a parallel universe</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3971-7"
+       d="m 4.7625,40.48125 v -3.175"
+       style="fill:none;fill-opacity:1;stroke:#56d0b9;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3975-5);marker-end:url(#marker3985-0)" />
+    <text
+       id="text1054-3"
+       y="37.75322"
+       x="9.2046776"
+       style="font-size:0.705556px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#56d0b9;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         y="37.75322"
+         x="9.2046776"
+         id="tspan1052-5"
+         style="fill:#56d0b9;fill-opacity:1;stroke-width:0.264583">Université Grenoble Alpes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="9.2133207"
+       y="38.765823"
+       id="text1081-3"><tspan
+         id="tspan4815"
+         x="9.2133207"
+         y="38.765823"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">First and second year of a Bachelor's Degree in</tspan><tspan
+         x="9.2133207"
+         y="39.294991"
+         sodipodi:role="line"
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1339">Computer Science and Mathematics</tspan></text>
+    <text
+       id="text4819"
+       y="37.306252"
+       x="5.2916665"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1"
+         sodipodi:role="line"
+         y="37.306252"
+         x="5.2916665"
+         id="tspan4817">June 2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.352778px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8b8b8;fill-opacity:1;stroke-width:0.264583"
+       x="5.2803779"
+       y="40.572441"
+       id="text4823"><tspan
+         id="tspan4821"
+         x="5.2803779"
+         y="40.572441"
+         sodipodi:role="line"
+         style="font-size:0.352778px;fill:#b8b8b8;fill-opacity:1">September 2015</tspan></text>
+    <text
+       id="text5279"
+       y="47.011471"
+       x="4.7338195"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.529167px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:role="line"
+         y="47.011471"
+         x="4.7338195"
+         id="tspan5277">Hello world!</tspan></text>
+    <text
+       id="text5289"
+       y="41.943604"
+       x="4.715404"
+       style="font-size:0.529167px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=400';font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:0.529167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:role="line"
+         y="41.943604"
+         x="4.715404"
+         id="tspan5287">Scientific Baccalaureate (Highschool)</tspan></text>
   </g>
 </svg>
